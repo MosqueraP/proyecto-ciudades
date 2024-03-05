@@ -1,5 +1,3 @@
-# Ejercicio práctico de Django
-
 ## Instalación:
 
 ```
